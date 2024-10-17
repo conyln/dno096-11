@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');
+
+:root {
+  --verdecito:#f00;
+  --bs-success-rgb: 135, 66, 255;
+  --bs-font-sans-serif: "M PLUS Rounded 1c", sans-serif;
+  --bs-body-font-family: var(--bs-font-sans-serif);
+}
